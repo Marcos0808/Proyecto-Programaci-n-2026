@@ -43,7 +43,7 @@ El Programa es un Sistema de Gestión de Operaciones y Recursos que modela las i
 - Guardia de Seguridad------ (8)---- Nocturno
  
 ## Personal Externo
-# no limitado         
+# limitado         
 - Personal-------------------(20)--- Horario
 - Invitado Especial--------- (2)---- Nocturno
 - Invitado VIP-------------- (2)---- Nocturno
