@@ -9,68 +9,68 @@ El Programa es un Sistema de Gestión de Operaciones y Recursos que modela las i
 # Recursos:
 ## Áreas de eventos                    
 - Áreas                                 Capacidad
-- Salón Grande                       (50 max, 31 min)
-- Salón Pequeño                      (30 max, 10 min)
-- Área de Exhibición                 (20 max, 8 min)
-- Zona Deportiva                     (16 max, 4 min)
-- Piscina Grande                     (40 max, 21 min)
-- Piscina Pequeña                    (20 max, 6 min)
-- Lobby                              (20 max, 10 min)
-- Sala de Reuniones                  (15 max, 8 min)
-- Área de Excursión                  (40 max, 20 min)
-- Otra Área                          (80 max, 20 min)
+- Salón Grande---------------------- (50 max, 31 min)
+- Salón Pequeño--------------------- (30 max, 10 min)
+- Área de Exhibición---------------- (20 max, 8 min)
+- Zona Deportiva-------------------- (16 max, 4 min)
+- Piscina Grande-------------------- (40 max, 21 min)
+- Piscina Pequeña------------------- (20 max, 6 min)
+- Lobby----------------------------- (20 max, 10 min)
+- Sala de Reuniones----------------- (15 max, 8 min)
+- Área de Excursión----------------- (40 max, 20 min)
+- Otra Área------------------------- (80 max, 20 min)
 
 
 ## Personal                  
 # no limitado
--                    (46)    Horario
-- Gerente                    (1)     Completo 
-- Asistente                  (1)     Completo 
-- Limpieza                   (4)     Completo 
-- Organizador                (2)     Completo 
-- Camarero                   (8)     Completo
-- Chef                       (2)     Completo 
-- Barman                     (2)     Nocturno
-- Mantenimiento              (2)     Completo 
-- Técnico en Sonido          (2)     Completo 
-- Técnico en Iluminación     (2)     Nocturno 
-- Chofer                     (2)     Diurno
-- Guía                       (2)     Diurno
-- Animación                  (3)     Completo
-- Salvavida                  (2)     Completo
-- Asistente deportivo        (2)     Diurno
-- Jefe de Seguridad          (1)     Nocturno
-- Guardia de Seguridad       (8)     Nocturno
+- Personal------------------ (46)--- Horario
+- Gerente------------------- (1)---- Completo 
+- Asistente----------------- (1)---- Completo 
+- Limpieza------------------ (4)---- Completo 
+- Organizador--------------- (2)---- Completo 
+- Camarero------------------ (8)---- Completo
+- Chef---------------------- (2)---- Completo 
+- Barman-------------------- (2)---- Nocturno
+- Mantenimiento------------- (2)---- Completo 
+- Técnico en Sonido--------- (2)---- Completo 
+- Técnico en Iluminación---- (2)---- Nocturno 
+- Chofer-------------------- (2)---- Diurno
+- Guía---------------------- (2)---- Diurno
+- Animación----------------- (3)---- Completo
+- Salvavida----------------- (2)---- Completo
+- Asistente deportivo------- (2)---- Diurno
+- Jefe de Seguridad--------- (1)---- Nocturno
+- Guardia de Seguridad------ (8)---- Nocturno
  
 ## Personal Externo
 # no limitado         
-- Personal                  (20)    Horario
-- Invitado Especial          (2)     Nocturno
-- Invitado VIP               (2)     Nocturno
-- Cantante                   (1)     Nocturno
-- Artesano                   (5)     Diurno
-- Divulgador Cultural        (5)     Diurno
-- Artista                    (5)     Completo
+- Personal-------------------(20)--- Horario
+- Invitado Especial--------- (2)---- Nocturno
+- Invitado VIP-------------- (2)---- Nocturno
+- Cantante------------------ (1)---- Nocturno
+- Artesano------------------ (5)---- Diurno
+- Divulgador Cultural------- (5)---- Diurno
+- Artista ------------------ (5)---- Completo
 
 - Nota: El personal limitado no se podrá reutilizar, además él mismo se actualiza al otro día
 
 ## Recursos                         
-- Resursos                           (360)
-- Implemento de Limpieza             (6)     [limitada]
-- Implemento deportivo               (16)
-- Equipo de Primeros Auxilios        (2)    
-- Mesa                               (20)  
-- Silla                              (80)
-- Utensilio de Cocina                (2)     [limitada]
-- Alimento                           (200)   [limitada]
-- Coctelería                         (2)     [limitada]
-- Puesto de Venta/Feria/Artesanal    (15)
-- Vehículo de Transporte             (2) 
-- Equipo de Audio                    (2)
-- Altavoz                            (4)
-- Micrófono                          (2)
-- Proyector                          (4)
-- Pantalla                           (3)
+- Resursos ------------------------- (360)
+- Implemento de Limpieza------------ (6)-----[limitada]
+- Implemento deportivo-------------- (16)
+- Equipo de Primeros Auxilios------- (2)    
+- Mesa------------------------------ (20)  
+- Silla----------------------------- (80)
+- Utensilio de Cocina--------------- (2)-----[limitada]
+- Alimento-------------------------- (200)---[limitada]
+- Coctelería------------------------ (2)-----[limitada]
+- Puesto de Venta/Feria/Artesanal--- (15)
+- Vehículo de Transporte------------ (2) 
+- Equipo de Audio------------------- (2)
+- Altavoz--------------------------- (4)
+- Micrófono------------------------- (2)
+- Proyector------------------------- (4)
+- Pantalla-------------------------- (3)
 
 - NOTA: Los recursos limitado no se podrán reutilizar, además los mismos se reponen al otro día 
 
