@@ -2,9 +2,9 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox, simpledialog
-from Eventos import EventManager
-from Recursos import ResourceManager
-from Condiciones import ConditionsManager
+from eventos import EventManager
+from recursos import ResourceManager
+from condiciones import ConditionsManager
 class App:
     def __init__(self):
         self.event_manager = EventManager()

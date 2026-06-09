@@ -1,6 +1,6 @@
 # Condiciones.py
-from Recursos import ResourceManager
-from Eventos import EventManager
+from recursos import ResourceManager
+from eventos import EventManager
 
 class ConditionsManager:
     def __init__(self):

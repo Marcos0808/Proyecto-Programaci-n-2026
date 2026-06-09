@@ -11,7 +11,7 @@ class ResourceManager:
 
         resource_staff = ["Gerente","Asistente","Limpieza","Organizador","Camarero","Chef","Barman","Mantenimiento","Técnico en Sonido",
                       "Técnico en Iluminación","Chofer","Guía","Animación","Salvavidas","Asistente Deportivo","Jefe de Seguridad",
-                      "Guardia de Seguridad","Invitados Especiales","Invitados VIP","Cantantes","Artesanos","Divulgador Cultural","Artistas"]
+                      "Guardia de Seguridad","Invitado Especiale","Invitado VIP","Cantante","Artesano","Divulgador Cultural","Artista"]
     
         resource_staff_hour = ["Completo","Completo","Completo","Completo","Completo","Completo","Nocturno","Completo","Completo","Nocturno","Diurno",
                      "Diurno","Completo","Completo","Diurno","Nocturno","Nocturno","Nocturno","Completo","Nocturno","Diurno","Diurno","Completo"]
