@@ -310,7 +310,7 @@ Tras la creación exitosa del evento, los datos se almacenan de forma persistent
 
 Gracias a que el personal está categorizado por roles y no por nombres fijos, si el hotel decide contratar diez técnicos de sonido adicionales, el sistema solo requiere actualizar un valor entero en la base de datos sin necesidad de cambiar la lógica del código. Por lo tanto, el modelo actual permite, en fases futuras, implementar nuevas funciones.
 
---
+---
 
 ## Agradecimiento
 
